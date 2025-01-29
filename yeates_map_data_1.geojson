@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Fort Niagara",
+        "Subtitle": "",
+        "Affiliation_controlled": "British",
+        "Explanatory_text": "Strategically important British fort, controlling access to the Great Lakes. Site of diplomacy with Great Lakes-based Indigenous nations."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06421806,
+          43.26316047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Detroit",
+        "Subtitle": "",
+        "Affiliation_controlled": "British",
+        "Explanatory_text": "Strategically important British fort. Site of negotiations between Lieutenant Governor Henry Hamilton, White Eyes, and William Wilson."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04797034,
+          42.32757691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Philadelphia",
+        "Subtitle": "",
+        "Affiliation_controlled": "American",
+        "Explanatory_text": "Site of the Continental Congress."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15000272,
+          39.94906152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Lancaster",
+        "Subtitle": "",
+        "Affiliation_controlled": "American",
+        "Explanatory_text": "Yeates' place of residence. This marker shows the location of his home."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.305833,
+          40.037222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Tinian",
+        "Subtitle": "",
+        "Affiliation_controlled": "American",
+        "Explanatory_text": "Home of James Burd, Yeates' father-in-law."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.77535508,
+          40.21278954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Carlisle",
+        "Subtitle": "",
+        "Affiliation_controlled": "American",
+        "Explanatory_text": "Yeates stopped here on his way to Pittsburgh. Site of Fort Carlisle."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.20028457,
+          40.20273096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Fort Pitt",
+        "Subtitle": "",
+        "Affiliation_controlled": "American",
+        "Explanatory_text": "Strategically important American fort. Site of trade and diplomacy with Ohio Valley Indigenous nations."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0096864,
+          40.44099955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pluggy's Town",
+        "Subtitle": "",
+        "Affiliation_controlled": "Indigenous",
+        "Explanatory_text": "Home to a coalition of Mingo, Delaware, Mohawk, Shawnee, and Wyandot people, allied with the British and militantly opposed to settler rule. Named for its leader, Plukkemehnotee or Pluggy."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06243694,
+          40.30547306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Tuscarawas",
+        "Subtitle": "",
+        "Affiliation_controlled": "Delaware",
+        "Explanatory_text": "A Delaware village notable for its proximity to the Moravian village at TK."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41896626,
+          40.69873629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Goschachgunk",
+        "Subtitle": "Cooshoking, Coshocton",
+        "Affiliation_controlled": "Delaware",
+        "Explanatory_text": "\"Capital\" of the Delaware nation. Yeates' allies frequently sent messages from here."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8690584,
+          40.27392223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Fort Randolph",
+        "Subtitle": "",
+        "Affiliation_controlled": "American",
+        "Explanatory_text": "American fort meant to defend the western frontier. US-allied Shawnee chief Cornstalk was held hostage and murdered here in 1777."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.12202522,
+          38.83795078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Sandusky",
+        "Subtitle": "Sanduske, Sanduske Creek",
+        "Affiliation_controlled": "British",
+        "Explanatory_text": "Site of trade between British and Wyandot peoples."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.51101639,
+          38.41918867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Wheeling",
+        "Subtitle": "",
+        "Affiliation_controlled": "American",
+        "Explanatory_text": "American settlement and site of Fort Henry."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.31711344,
+          40.4924743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Kanawha",
+        "Subtitle": "",
+        "Affiliation_controlled": "American",
+        "Explanatory_text": "Approximate site of two American settlements, referred to in the Yeates papers as Big Kanawha and Little Kanawha."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.42585476,
+          38.21768544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Kittaning",
+        "Subtitle": "",
+        "Affiliation_controlled": "American",
+        "Explanatory_text": "Former site of a village of Delaware, Cayuga, Seneca, and Shawnee people. Destroyed by the British during the French and Indian War, and subsequently used as a military camp by the Americans."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.52137654,
+          40.82023926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Presque Isle",
+        "Subtitle": "",
+        "Affiliation_controlled": "American",
+        "Explanatory_text": "A British fort here was destroyed by Seneca, Ottawa, Huron, and Chippewa people during Pontiac's War. Mentioned as a potential site of American military operations."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.07443029,
+          42.14046983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Le Boeuf",
+        "Subtitle": "",
+        "Affiliation_controlled": "American",
+        "Explanatory_text": "A British fort here was destroyed during Pontiac's War. Mentioned as a potential site of American military operations."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98252146,
+          41.93957209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Logstown",
+        "Subtitle": "",
+        "Affiliation_controlled": "Indigenous",
+        "Explanatory_text": "Originally a Shawnee village; later home to Six Nations, Wyandot, Delaware, and other Indigenous peoples, as well as some British and French traders. Destroyed during the French and Indian war."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2266709,
+          40.62313981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Shackamaxon",
+        "Subtitle": "",
+        "Affiliation_controlled": "Delaware",
+        "Explanatory_text": "Site of the treaty between William Penn and the Delaware signed in 1682."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12851169,
+          39.96650411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Gekelemukpechunk",
+        "Subtitle": "Newcomerstown",
+        "Affiliation_controlled": "Delaware",
+        "Explanatory_text": "Delaware \"capital\" and home of Netawatwes (Newcomer), an important political leader."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60787257,
+          40.27493008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Schoenbrunn",
+        "Subtitle": "",
+        "Affiliation_controlled": "Moravian",
+        "Explanatory_text": "Moravian mission town with close ties to the local Delaware community. While not mentioned by name, Schoenbrunn was likely one of the \"Moravian towns\" referenced in the Yeates papers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4177602,
+          40.46494121
+        ]
+      }
+    }
+  ]
+}
